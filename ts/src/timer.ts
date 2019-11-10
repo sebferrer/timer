@@ -12,7 +12,7 @@ export class Timer {
 		this.elapsed = 0;
 		this.tick = 0;
 		this.enabled = false;
-		this.start = 0;
+		this.start = new Date().getTime();
 	}
 
 	public enable(): void {

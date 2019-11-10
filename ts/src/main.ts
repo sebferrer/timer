@@ -9,7 +9,7 @@ export class Main {
 		timer.run();
 
 		if(timer.nextTick()) {
-			console.log("1 second elapsed");
+			console.log(timer.tick + " seconds elapsed");
 		}
 		
 		const self = this;
