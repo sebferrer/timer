@@ -10,3 +10,6 @@ ts/tslint.json
 java/timer/.idea
 java/timer/out
 java/timer/*.iml
+python/.idea
+python/venv
+python/__pycache__
