@@ -7,3 +7,6 @@ ts/gulpfile.js
 ts/package.json
 ts/tsconfig.json
 ts/tslint.json
+java/timer/.idea
+java/timer/out
+java/timer/*.iml
